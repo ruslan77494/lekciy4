@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Lekciy4\001Sum1doA\bin\Debug\net6.0\001Sum1doA.exe
+C:\Users\PC\Desktop\Lekciy4\001Sum1doA\bin\Debug\net6.0\001Sum1doA.deps.json
+C:\Users\PC\Desktop\Lekciy4\001Sum1doA\bin\Debug\net6.0\001Sum1doA.runtimeconfig.json
+C:\Users\PC\Desktop\Lekciy4\001Sum1doA\bin\Debug\net6.0\001Sum1doA.dll
+C:\Users\PC\Desktop\Lekciy4\001Sum1doA\bin\Debug\net6.0\001Sum1doA.pdb
+C:\Users\PC\Desktop\Lekciy4\001Sum1doA\obj\Debug\net6.0\001Sum1doA.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Lekciy4\001Sum1doA\obj\Debug\net6.0\001Sum1doA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Lekciy4\001Sum1doA\obj\Debug\net6.0\001Sum1doA.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Lekciy4\001Sum1doA\obj\Debug\net6.0\001Sum1doA.AssemblyInfo.cs
+C:\Users\PC\Desktop\Lekciy4\001Sum1doA\obj\Debug\net6.0\001Sum1doA.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Lekciy4\001Sum1doA\obj\Debug\net6.0\001Sum1doA.dll
+C:\Users\PC\Desktop\Lekciy4\001Sum1doA\obj\Debug\net6.0\refint\001Sum1doA.dll
+C:\Users\PC\Desktop\Lekciy4\001Sum1doA\obj\Debug\net6.0\001Sum1doA.pdb
+C:\Users\PC\Desktop\Lekciy4\001Sum1doA\obj\Debug\net6.0\001Sum1doA.genruntimeconfig.cache
+C:\Users\PC\Desktop\Lekciy4\001Sum1doA\obj\Debug\net6.0\ref\001Sum1doA.dll
