@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Lekciy4\004.1masiv\bin\Debug\net6.0\004.1masiv.exe
+C:\Users\PC\Desktop\Lekciy4\004.1masiv\bin\Debug\net6.0\004.1masiv.deps.json
+C:\Users\PC\Desktop\Lekciy4\004.1masiv\bin\Debug\net6.0\004.1masiv.runtimeconfig.json
+C:\Users\PC\Desktop\Lekciy4\004.1masiv\bin\Debug\net6.0\004.1masiv.dll
+C:\Users\PC\Desktop\Lekciy4\004.1masiv\bin\Debug\net6.0\004.1masiv.pdb
+C:\Users\PC\Desktop\Lekciy4\004.1masiv\obj\Debug\net6.0\004.1masiv.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Lekciy4\004.1masiv\obj\Debug\net6.0\004.1masiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Lekciy4\004.1masiv\obj\Debug\net6.0\004.1masiv.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Lekciy4\004.1masiv\obj\Debug\net6.0\004.1masiv.AssemblyInfo.cs
+C:\Users\PC\Desktop\Lekciy4\004.1masiv\obj\Debug\net6.0\004.1masiv.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Lekciy4\004.1masiv\obj\Debug\net6.0\004.1masiv.dll
+C:\Users\PC\Desktop\Lekciy4\004.1masiv\obj\Debug\net6.0\refint\004.1masiv.dll
+C:\Users\PC\Desktop\Lekciy4\004.1masiv\obj\Debug\net6.0\004.1masiv.pdb
+C:\Users\PC\Desktop\Lekciy4\004.1masiv\obj\Debug\net6.0\004.1masiv.genruntimeconfig.cache
+C:\Users\PC\Desktop\Lekciy4\004.1masiv\obj\Debug\net6.0\ref\004.1masiv.dll
