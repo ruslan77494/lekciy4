@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Lekciy4\002kolichestvochisel\bin\Debug\net6.0\002kolichestvochisel.exe
+C:\Users\PC\Desktop\Lekciy4\002kolichestvochisel\bin\Debug\net6.0\002kolichestvochisel.deps.json
+C:\Users\PC\Desktop\Lekciy4\002kolichestvochisel\bin\Debug\net6.0\002kolichestvochisel.runtimeconfig.json
+C:\Users\PC\Desktop\Lekciy4\002kolichestvochisel\bin\Debug\net6.0\002kolichestvochisel.dll
+C:\Users\PC\Desktop\Lekciy4\002kolichestvochisel\bin\Debug\net6.0\002kolichestvochisel.pdb
+C:\Users\PC\Desktop\Lekciy4\002kolichestvochisel\obj\Debug\net6.0\002kolichestvochisel.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Lekciy4\002kolichestvochisel\obj\Debug\net6.0\002kolichestvochisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Lekciy4\002kolichestvochisel\obj\Debug\net6.0\002kolichestvochisel.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Lekciy4\002kolichestvochisel\obj\Debug\net6.0\002kolichestvochisel.AssemblyInfo.cs
+C:\Users\PC\Desktop\Lekciy4\002kolichestvochisel\obj\Debug\net6.0\002kolichestvochisel.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Lekciy4\002kolichestvochisel\obj\Debug\net6.0\002kolichestvochisel.dll
+C:\Users\PC\Desktop\Lekciy4\002kolichestvochisel\obj\Debug\net6.0\refint\002kolichestvochisel.dll
+C:\Users\PC\Desktop\Lekciy4\002kolichestvochisel\obj\Debug\net6.0\002kolichestvochisel.pdb
+C:\Users\PC\Desktop\Lekciy4\002kolichestvochisel\obj\Debug\net6.0\002kolichestvochisel.genruntimeconfig.cache
+C:\Users\PC\Desktop\Lekciy4\002kolichestvochisel\obj\Debug\net6.0\ref\002kolichestvochisel.dll
