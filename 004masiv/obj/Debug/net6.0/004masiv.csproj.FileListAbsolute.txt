@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Lekciy4\004masiv\bin\Debug\net6.0\004masiv.exe
+C:\Users\PC\Desktop\Lekciy4\004masiv\bin\Debug\net6.0\004masiv.deps.json
+C:\Users\PC\Desktop\Lekciy4\004masiv\bin\Debug\net6.0\004masiv.runtimeconfig.json
+C:\Users\PC\Desktop\Lekciy4\004masiv\bin\Debug\net6.0\004masiv.dll
+C:\Users\PC\Desktop\Lekciy4\004masiv\bin\Debug\net6.0\004masiv.pdb
+C:\Users\PC\Desktop\Lekciy4\004masiv\obj\Debug\net6.0\004masiv.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Lekciy4\004masiv\obj\Debug\net6.0\004masiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Lekciy4\004masiv\obj\Debug\net6.0\004masiv.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Lekciy4\004masiv\obj\Debug\net6.0\004masiv.AssemblyInfo.cs
+C:\Users\PC\Desktop\Lekciy4\004masiv\obj\Debug\net6.0\004masiv.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Lekciy4\004masiv\obj\Debug\net6.0\004masiv.dll
+C:\Users\PC\Desktop\Lekciy4\004masiv\obj\Debug\net6.0\refint\004masiv.dll
+C:\Users\PC\Desktop\Lekciy4\004masiv\obj\Debug\net6.0\004masiv.pdb
+C:\Users\PC\Desktop\Lekciy4\004masiv\obj\Debug\net6.0\004masiv.genruntimeconfig.cache
+C:\Users\PC\Desktop\Lekciy4\004masiv\obj\Debug\net6.0\ref\004masiv.dll
